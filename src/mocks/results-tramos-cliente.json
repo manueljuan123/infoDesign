@@ -1,0 +1,102 @@
+[
+	{
+		"TipoConsumo": "Comercial",
+		"Linea": "Tramo 3",
+		"Perdidas": 0.298801886
+	},
+	{
+		"TipoConsumo": "Comercial",
+		"Linea": "Tramo 2",
+		"Perdidas": 0.298702342
+	},
+	{
+		"TipoConsumo": "Comercial",
+		"Linea": "Tramo 5",
+		"Perdidas": 0.296731923
+	},
+	{
+		"TipoConsumo": "Comercial",
+		"Linea": "Tramo 3",
+		"Perdidas": 0.296693118
+	},
+	{
+		"TipoConsumo": "Comercial",
+		"Linea": "Tramo 4",
+		"Perdidas": 0.291345719
+	},
+	{
+		"TipoConsumo": "Comercial",
+		"Linea": "Tramo 1",
+		"Perdidas": 0.290938438
+	},
+	{
+		"TipoConsumo": "Comercial",
+		"Linea": "Tramo 2",
+		"Perdidas": 0.289043692
+	},
+	{
+		"TipoConsumo": "Comercial",
+		"Linea": "Tramo 2",
+		"Perdidas": 0.287234818
+	},
+	{
+		"TipoConsumo": "Comercial",
+		"Linea": "Tramo 2",
+		"Perdidas": 0.285870282
+	},
+	{
+		"TipoConsumo": "Comercial",
+		"Linea": "Tramo 4",
+		"Perdidas": 0.28574208
+	},
+	{
+		"TipoConsumo": "Comercial",
+		"Linea": "Tramo 4",
+		"Perdidas": 0.285116148
+	},
+	{
+		"TipoConsumo": "Comercial",
+		"Linea": "Tramo 5",
+		"Perdidas": 0.276751413
+	},
+	{
+		"TipoConsumo": "Comercial",
+		"Linea": "Tramo 4",
+		"Perdidas": 0.276489972
+	},
+	{
+		"TipoConsumo": "Comercial",
+		"Linea": "Tramo 4",
+		"Perdidas": 0.275412235
+	},
+	{
+		"TipoConsumo": "Comercial",
+		"Linea": "Tramo 1",
+		"Perdidas": 0.274225111
+	},
+	{
+		"TipoConsumo": "Comercial",
+		"Linea": "Tramo 4",
+		"Perdidas": 0.272166847
+	},
+	{
+		"TipoConsumo": "Comercial",
+		"Linea": "Tramo 1",
+		"Perdidas": 0.27098545
+	},
+	{
+		"TipoConsumo": "Comercial",
+		"Linea": "Tramo 4",
+		"Perdidas": 0.270279303
+	},
+	{
+		"TipoConsumo": "Comercial",
+		"Linea": "Tramo 3",
+		"Perdidas": 0.265159202
+	},
+	{
+		"TipoConsumo": "Comercial",
+		"Linea": "Tramo 5",
+		"Perdidas": 0.261466779
+	}
+]

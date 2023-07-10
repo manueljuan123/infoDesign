@@ -1,0 +1,35 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import 'rsuite/dist/rsuite.min.css';
+
+.mysidenav {
+    background-color: #2e2e38 !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html {
+    margin-left: 10px;
+}
+
+body {
+    background-color: #FFFFFF;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (min-width: 768px){
+    html {
+        margin-left: 1rem;
+        padding: -10px;
+    }
+
+    body {
+        overflow: hidden;
+    }
+}

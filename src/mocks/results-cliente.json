@@ -1,0 +1,62 @@
+[
+	{
+		"Linea": "Tramo 1",
+		"consumo_residencial": 921748,
+		"consumo_comercial": 2570344,
+		"consumo_industrial": 12801575,
+		"perdidas_residencial": 558.0260930699995,
+		"perdidas_comercial": 551.0071182780014,
+		"perdidas_industrial": 564.1416236699991,
+		"costo_residencial": 3581730.7828056216,
+		"costo_comercial": 3773196.694272803,
+		"costo_industrial": 4083702.8801038037
+	},
+	{
+		"Linea": "Tramo 2",
+		"consumo_residencial": 926735,
+		"consumo_comercial": 2583516,
+		"consumo_industrial": 12817563,
+		"perdidas_residencial": 554.1831471390003,
+		"perdidas_comercial": 551.139836585001,
+		"perdidas_industrial": 554.5986468159994,
+		"costo_residencial": 3581730.7828056286,
+		"costo_comercial": 3773196.6942728003,
+		"costo_industrial": 4083702.8801037953
+	},
+	{
+		"Linea": "Tramo 3",
+		"consumo_residencial": 918212,
+		"consumo_comercial": 2580275,
+		"consumo_industrial": 12758768,
+		"perdidas_residencial": 560.5274941269996,
+		"perdidas_comercial": 554.2552578489991,
+		"perdidas_industrial": 554.9509513760008,
+		"costo_residencial": 3581730.7828056198,
+		"costo_comercial": 3773196.6942728013,
+		"costo_industrial": 4083702.8801038107
+	},
+	{
+		"Linea": "Tramo 4",
+		"consumo_residencial": 923852,
+		"consumo_comercial": 2585730,
+		"consumo_industrial": 12852389,
+		"perdidas_residencial": 558.9947016689993,
+		"perdidas_comercial": 551.7635473670007,
+		"perdidas_industrial": 547.0743662099997,
+		"costo_residencial": 3581730.782805627,
+		"costo_comercial": 3773196.694272801,
+		"costo_industrial": 4083702.880103796
+	},
+	{
+		"Linea": "Tramo 5",
+		"consumo_residencial": 910142,
+		"consumo_comercial": 2583502,
+		"consumo_industrial": 12884530,
+		"perdidas_residencial": 556.1996861779988,
+		"perdidas_comercial": 553.9131539939998,
+		"perdidas_industrial": 552.7969575509992,
+		"costo_residencial": 3581730.7828056267,
+		"costo_comercial": 3773196.6942727976,
+		"costo_industrial": 4083702.8801038023
+	}
+]
